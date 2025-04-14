@@ -8,7 +8,7 @@ This repository includes the visualisation code for Figure 1 and Figure 2 in the
 # Figures
 Figure 1: Primary energy coal and gas use with and without CCS from global modelled pathways submitted to the IPCC AR6 scenarios database.
 
-Figure 2: Emissions reduction potential in hard-to-abate industrial sectors (steel and cement) through methane leakage control and carbon capture and storage.
+Figure 2: Emissions reduction potential in industrial sectors (steel and cement) through methane leakage control and carbon capture and storage.
 
 # Data 
 Figure 1 is based on data from the IPCC AR6 Scenarios Database: 
